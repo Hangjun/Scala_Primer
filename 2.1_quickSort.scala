@@ -30,6 +30,6 @@ def sort(xs: Array[Int]) {
 def sort(xs: Array[Int]) {
 	if (xs.length <= 1) xs
 	val pivot = xs(xs.length / 2)
-	Array.concat(sort(xs filter (pivot > )). xs filter (pivot == ). sort(xs filter (pivot < )))
+	Array.concat(sort(xs.filter(pivot > )). xs.filter(pivot == ). sort(xs.filter(pivot < )))
 }
 
