@@ -1,7 +1,4 @@
-/* Two versions of quick sort in Scala:
-1. Imperative programming style;
-2. Functional programming sytle.
-*/
+/* Two versions of quick sort in Scala */
 
 /* Version #1: Imperative programming */
 def sort(xs: Array[Int]) {
