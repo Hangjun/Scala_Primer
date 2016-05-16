@@ -1,1 +1,1 @@
-# Scala_Primer: Exercises in learning Scala.
+# Exercises in Scala by Examples
