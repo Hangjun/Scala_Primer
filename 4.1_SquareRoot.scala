@@ -27,3 +27,4 @@ object squareRoot {
     	print(squareRoot(10))
   	}
 };
+
